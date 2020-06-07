@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Project done by following the [MDN - Getting Started with React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started) Guide.
 
+A deployed and running live version of the app can be found [here](https://mihailsandulescu.github.io/React-ToDo-App/). 
+
+Used [this](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) guide to learn how to publish my app to GitHub Pages.
+
 ## Notions covered
 
 - CRUD functionalites. Users can:
@@ -18,7 +22,3 @@ Project done by following the [MDN - Getting Started with React](https://develop
 - Users can mark tasks as completed without deleting them.
 
 - Includes accessibility features for screen-reader users and keyboard navigation.
-
-A deployed and running live version of the app can be found [here](https://mihailsandulescu.github.io/React-ToDo-App/). 
-
-Used [this](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) guide to learn how to publish my app to GitHub Pages.
