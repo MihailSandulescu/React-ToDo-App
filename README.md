@@ -15,3 +15,7 @@ Project done by following the [MDN - Getting Started with React](https://develop
    * Completed tasks
 
 - Users can mark tasks as completed without deleting them.
+
+A deployed and running live version of the app can be found [here](https://mihailsandulescu.github.io/React-ToDo-App/). 
+
+Used [this](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) guide to learn how to deploy my app to GitHub Pages.
