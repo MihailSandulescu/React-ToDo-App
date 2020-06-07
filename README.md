@@ -6,6 +6,7 @@ Project done by following the [MDN - Getting Started with React](https://develop
 
 - CRUD functionalites. Users can:
    * CREATE a To-Do
+   * READ (View) Tasks with the posibility of sorting them according to given filters
    * UPDATE an existing To-Do
    * DELETE To-Do's
 
@@ -18,4 +19,4 @@ Project done by following the [MDN - Getting Started with React](https://develop
 
 A deployed and running live version of the app can be found [here](https://mihailsandulescu.github.io/React-ToDo-App/). 
 
-Used [this](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) guide to learn how to deploy my app to GitHub Pages.
+Used [this](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) guide to learn how to publish my app to GitHub Pages.
